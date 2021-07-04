@@ -1,0 +1,13 @@
+numpy
+pandas
+torch
+wandb
+preprocessing
+tqdm
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+python-jose
+python-multipart
